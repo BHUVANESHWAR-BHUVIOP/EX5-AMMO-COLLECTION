@@ -64,7 +64,7 @@ the game, such as firing bullets or picking up ammo.
 ## OUTPUT:
 
 ### In Play Mode:
-![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX5-AMMO-COLLECTION/assets/94155099/95692ccd-8c58-45ca-986a-0a552669638d)
+![image](https://github.com/BHUVANESHWAR-BHUVIOP/EX5-AMMO-COLLECTION/assets/94155099/c685333c-b4d3-4682-973f-a2c0cddacc83)
 
 
 ### Canvas:
